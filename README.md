@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmappum%2Fgitbanner&psig=AOvVaw3IfOvPXPZ5JCmPnfFwwT2G&ust=1697801409952000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDV2tCBgoIDFQAAAAAdAAAAABAI)
+![logo](https://github.com/chanchal231/chanchal231/blob/main/banner-1.png)
 <h1 align="center">Hi 👋, I'm Chanchal</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
